@@ -1,7 +1,7 @@
 
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
-#  Clima
+#  Clima -- This was a practice project, and I followed Angela Yu through all the code
 
 ## Our Goal
 
